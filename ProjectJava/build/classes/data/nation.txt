@@ -1,0 +1,25 @@
+12
+1
+Japan - Nhat Ban (JP)
+2
+United States of America - Hoa Ky (USA)
+3
+China - Trung Quoc (CN)
+4
+Kongeriget Denmark - Dan Mach (DK)
+5
+Germany - Duc (DE) 
+6
+VietNam - Viet Nam (VN)
+7
+CE_Europe - Chau Au (EU)
+8
+Australia - Uc (AU)
+9
+Korea - Han Quoc (KR)
+10
+ThaiLand - Thai Lan (TH)
+11
+United Kingdom - England - Anh (UK)
+12
+Sweden - Thuy Dien (SE)

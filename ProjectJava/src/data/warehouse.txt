@@ -1,0 +1,7 @@
+2
+1
+Warehouse 01
+21 Bui Thi Xuan Street, Ninh Kieu District, Can Tho City.
+2
+Warehouse 02
+56 Le Anh Xuan Street, Ninh Kieu District, Can Tho City.
